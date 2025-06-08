@@ -7,3 +7,4 @@
 - run the query `select * from Shippers;`
 - type `.mode column`
 - run the query again (note the difference)
+- do the questions in `sql_questions.md`, check your answer in `sql_answers.md`
