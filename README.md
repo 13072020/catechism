@@ -19,7 +19,7 @@
 1. From the `Customers` table, return all the countries present (`Country`) in alphabetical order (*with no duplicates*)
 1. From the `Customers` table, list all cities (`City`) starting with the letter `A` or `C`. Don't include duplicates.
 1. In the `Orders` table, one `CustomerID` may be associated with many `OrderID`s. Get the count of orders per `CustomerID`, in ascending alphabetical order of `CustomerID`. What's the first result?
-1. There are 77 products in the `Products` table, and 29 suppliers in the `Suppliers` table. Using a `left join`, list the name of all products (and the name of their supplier) where the `CompanyName` of the supplier is one of `Exotic Liquids`, `Specialty Biscuits, Ltd`, `Escargots Nouveaux`.
+1. There are 77 products in the `Products` table, and 29 suppliers in the `Suppliers` table. Using a `left join`, list the name of all products (and the name of their supplier) where the `CompanyName` of the supplier is one of `Exotic Liquids`, `Specialty Biscuits, Ltd.`, `Escargots Nouveaux`.
 
 ## Answers
 
